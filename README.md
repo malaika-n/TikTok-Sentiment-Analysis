@@ -5,7 +5,7 @@ Analyzing TikTok reviews to find out users' feelings about TikTok content
 <img src="Files/percentages of ratings.png">
 
 <ul>Looking at the kind of words the users use in the reviews of TikTok:</ul>
-<img src="Files/words the users use in the reviews of TikTok.png">
+<img src="Files/ words the users use in the reviews of TikTok.png">
 
 <ul>Looking at the words people use in the positive reviews of TikTok:</ul>
 <img src="Files/words people use in the positive reviews of TikTok.png">
