@@ -1,5 +1,5 @@
 # TikTok Sentiment Analysis
-Analyzing TikTok reviews to find out users' feelings about TikTok content
+Analyzing TikTok reviews to find out users' feelings about TikTok content.
 
 <b><ul>Looking at the percentages of ratings given to TikTok on the Google Play store:</ul></b>
 <img src="Files/percentages of ratings.png">
